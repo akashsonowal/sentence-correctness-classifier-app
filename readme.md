@@ -3,4 +3,4 @@ To determine if a given sentence is grammatically correct
 
 
 # References
-- [https://github.com/graviraja/MLOps-Basics](MLOps-Basics)
+- [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
